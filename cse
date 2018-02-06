@@ -1,6 +1,6 @@
 <script>
   (function() {
-    var cx = '004211356859800162426:wcyctimlf1i';
+    var cx = 'partner-pub-3206689255274961:6448323048';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -9,4 +9,4 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:searchresults-only></gcse:searchresults-only>
